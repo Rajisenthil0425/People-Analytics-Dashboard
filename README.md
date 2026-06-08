@@ -57,3 +57,29 @@ tooltips with Row Level Security for data governance.
 - Training completion at 70% — below 95% target (compliance risk)
 - Near zero gender pay gap — strong pay equity across the organisation
 - Claims department lowest performance score — combined with highest absence suggests engagement risk
+
+  ## Dashboard Screenshots
+
+### Home
+![Home](screenshots/01_Home.png)
+
+### Workforce Overview
+![Workforce Overview](screenshots/02_Workforce_Overview.png)
+
+### Absence and Wellbeing
+![Absence and Wellbeing](screenshots/03_Absence_and_Wellbeing.png)
+
+### Salary and Pay Equity
+![Salary and Pay Equity](screenshots/04_Salary_and_Pay_Equity.png)
+
+### Recruitment
+![Recruitment](screenshots/05_Recruitment.png)
+
+### Training and Compliance
+![Training and Compliance](screenshots/06_Training_and_Compliance.png)
+
+### Performance
+![Performance](screenshots/07_Performance.png)
+
+### Employee Detail
+![Employee Detail](screenshots/08_Employee_Detail.png)
